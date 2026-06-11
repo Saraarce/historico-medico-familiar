@@ -1,0 +1,36 @@
+{
+  "short_name": "Prontuário",
+  "name": "Prontuário Médico Familiar",
+  "description": "Controle seus exames, consultas, vacinas e prontuários médicos familiares",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1e293b",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "/icon-512.jpg",
+      "type": "image/jpeg",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.jpg",
+      "type": "image/jpeg",
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.jpg",
+      "type": "image/jpeg",
+      "sizes": "192x192",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon-512.jpg",
+      "type": "image/jpeg",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ]
+}
